@@ -45,3 +45,14 @@ For the social icons, you can use a font icon library. Some suggestions can be f
   --open-sans: "Open Sans", sans-serif;
   --poppins: "Poppins", sans-serif;
 }
+
+html {
+  font-size: 62.5%;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
