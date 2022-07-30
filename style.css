@@ -56,3 +56,22 @@ html {
   margin: 0;
   padding: 0;
 }
+
+body {
+  background: var(--violet) url("./images/bg-desktop.svg") no-repeat center
+    center/cover;
+  min-height: 100vh;
+}
+
+.main-heading {
+  font-family: var(--poppins);
+  font-weight: 600;
+  font-size: 4rem;
+  color: #fff;
+}
+.subtitle {
+  font-family: var(--open-sans);
+  color: #fff;
+  font-weight: 400;
+  font-size: 1.8rem;
+}
