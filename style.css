@@ -37,3 +37,11 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 - [Ionicons](https://ionicons.com/)
 
 */
+
+:root {
+  --violet: hsl(257, 40%, 49%);
+  --soft-magenta: hsl(300, 69%, 71%);
+
+  --open-sans: "Open Sans", sans-serif;
+  --poppins: "Poppins", sans-serif;
+}
