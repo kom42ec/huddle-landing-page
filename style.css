@@ -94,6 +94,10 @@ body {
   border-radius: 30px;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
 }
+.btn:hover {
+  background-color: var(--soft-magenta);
+  color: #fff;
+}
 /* Header */
 
 .main-nav {
@@ -137,6 +141,10 @@ body {
   align-items: center;
   justify-content: center;
   text-decoration: none;
+}
+.icon:hover {
+  color: var(--soft-magenta);
+  border-color: var(--soft-magenta);
 }
 
 /* Responsive */
